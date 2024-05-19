@@ -4,7 +4,7 @@ print(13)
 print("Gela abesadze")
 print(45)
 
-print("Lela abesadze")
+print("Lela kandelaki")
 print(43)
 
 print("Nino abesadze")
