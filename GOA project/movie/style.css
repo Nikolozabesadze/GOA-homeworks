@@ -1,0 +1,38 @@
+body{
+    
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+}
+
+li{
+    font-family: "Press Start 2P";
+    color :rgb(81, 255, 0);
+    border-style :outset;
+    border-width :5px;
+    border-color :forestgreen;
+    border-radius :10px;
+    padding :5px;
+    
+}
+
+h3{
+    font-family: "Press Start 2P", "consolas", sans-serief;
+    color:rgb(255, 255, 255);
+    background: linear-gradient(white);
+    background: linear-gradient(to right, white,to left,skyblue);
+}
+
+address{
+    font-family: "Press Start 2P", "consolas", sans-serief;
+    color:white;
+    background: linear-gradient(white);
+}
+
+h1{
+    font-family: "Press Start 2P", "consolas", sans-serief;
+    color:white;
+    background: linear-gradient(white);
+}
